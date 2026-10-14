@@ -5,3 +5,4 @@ Hi, I'm J Karthik Raj, a B.Tech Computer Science and Information Technology stud
 
 - **Skill:** Learning Python for Data Science
 - **Interest:** AI and machine learning
+- **Goal:** Contributing to open source projects
